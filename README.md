@@ -34,6 +34,8 @@ SELECT * FROM students WHERE marks > 80;
 | Sathvika | 92 |
 | Priya | 85 |
 
+![App Demo](Screenshot%20(264).png)
+
 ## 🚀 How to Run Locally
 ```bash
 git clone https://github.com/sathvika0824/sql-query-generator
